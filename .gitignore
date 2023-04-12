@@ -1,0 +1,6 @@
+#File extensions to ignore
+*__pycache__
+
+#Mac clean-up
+*.DS_Store
+*.ipynb_checkpoints
